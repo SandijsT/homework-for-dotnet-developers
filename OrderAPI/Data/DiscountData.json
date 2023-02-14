@@ -1,0 +1,10 @@
+[
+  {
+    "OrderAmount": 50,
+    "Discount": 15
+  },
+  {
+    "OrderAmount": 10,
+    "Discount": 5
+  }
+]
